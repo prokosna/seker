@@ -11,5 +11,4 @@ thumbs.db
 !.gitkeep
 
 .idea
-.electron-vue
 *.iml
